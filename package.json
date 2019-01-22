@@ -1,0 +1,21 @@
+{
+  "name": "freelance-dargon-trainer",
+  "version": "1.0.0",
+  "description": "Freelance Dargon Trainer which will manage out to deal with dragonsofmugloar.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Freelance",
+    "dargon",
+    "trainer",
+    "mugloar"
+  ],
+  "author": "Taha Ali Adil",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.3",
+    "node-fetch": "^2.3.0"
+  }
+}
